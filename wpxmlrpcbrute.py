@@ -2,7 +2,6 @@
 
 import argparse
 import logging
-import Queue
 import requests
 import sys
 import threading
